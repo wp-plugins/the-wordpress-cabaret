@@ -1,5 +1,4 @@
 === The Wordpress Cabaret ===
-Plugin Name: The Wordpress Cabaret
 Contributors: corpodibacco
 Tags: random, poetry, clouds, dada, futurism, cabaret
 Requires at least: 2.0.2
