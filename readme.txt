@@ -1,5 +1,5 @@
 === The Wordpress Cabaret ===
-Contributors: ico
+Contributors: ico@italyisfalling.com
 Tags: random, poetry, clouds, dada, futurism, cabaret
 Requires at least: 2.0.2
 Tested up to: 2.3
