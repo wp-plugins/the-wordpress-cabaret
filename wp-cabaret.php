@@ -3,7 +3,7 @@
 Plugin Name: The Wordpress Cabaret
 Plugin URI: http://www.italyisfalling.com/wordpress-cabaret/
 Description: Creator of random poetry out of your posts and comments.
-Author: ico
+Author: ico@italyisfalling.com
 Author URI: http://www.italyisfalling.com/coding
 Version: 0.5
 */
